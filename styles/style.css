@@ -207,7 +207,6 @@ ol {
   height: 19px;
   border: 1px solid rgba(255, 255, 255, 1);
   background-color: inherit;
-  position: relative;
 }
 
 .button {
@@ -254,9 +253,7 @@ ol {
   width: 15px;
   height: 15px;
   background-color: rgba(255, 255, 255, 1);
-  position: absolute;
-  inset: 0;
-  margin: auto;
+  margin: 1px;
 }
 
 .search-form__label .search-form__label-text:hover {
